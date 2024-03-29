@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "YemekTarif site", "YemekTarif site\", "{54D0711B-79C8-4460-A9BE-1ACE0BCE3481}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50258"
+		Debug.AspNetCompiler.PhysicalPath = "YemekTarif site\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50258\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50258"
+		Release.AspNetCompiler.PhysicalPath = "YemekTarif site\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50258\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50258"
+		SlnRelativePath = "YemekTarif site\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D0711B-79C8-4460-A9BE-1ACE0BCE3481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D0711B-79C8-4460-A9BE-1ACE0BCE3481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEE6A1F8-B6F0-4100-B5DB-FD8085516AD7}
+	EndGlobalSection
+EndGlobal
